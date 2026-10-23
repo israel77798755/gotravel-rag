@@ -1,0 +1,63 @@
+Key Updates to Schengen Visa Application Requirements 
+
+ 
+
+The European Union (EU) has made several updates to its travel visa policies in 2025. These updates impact foreigners and EU citizens. The following are key travel policy changes to be implemented in 2025: 
+
+ 
+
+Border management systems 
+
+The Entry/Exit System (EES)  
+
+EES rolls out in phases between October 2025 and March 2026. This system will digitize the manual stamping of passports for travelers entering and exiting from the Schengen Area. It also requires the collection of biometric data for non-EU residents. 
+
+European Travel Information and Authorisation System (ETIAS) 
+
+ETIAS rolls out after the launch of EES. It requires travelers from visa-exempt countries to apply for an ETIAS permit before traveling. This permit is required for short-term stays (up to 90 days in a 180-day period) and is valid for up to three years or until the traveler’s passport expires. It costs €7 for applications aged 18 to 70. 
+
+ 
+
+Romania and Bulgaria joining Schengen 
+
+As of January 1, 2025, Romania and Bulgaria have officially become full members of the Schengen Area. This means the following: 
+
+No internal border checks will be implemented between these countries and other Schengen states for air and sea travel. 
+
+Land border controls still apply. 
+
+ 
+
+Greece Golden Visa program 
+
+As of January 2025, Greece has expanded its Golen Visa program by extending eligibility to investors in the start-up sector. Foreign investors in start-ups will be eligible for a Golden Visa if they: 
+
+Invest at least €250,000 in start-ups listed in the National Register of Start-ups. 
+
+Create a minimum of two jobs within the first year of investment. 
+
+Maintain the workforce for at least five years. 
+
+Hold at least 33% equity participation in the company. 
+
+ 
+
+UK authorization fees for EU citizens 
+
+As of April 2025, EU citizens traveling to the UK will need to pay an authorization fee of €11 for the UK’s Electronic Travel Authorization (ETA), which will be processed within three days of the application. 
+
+ 
+
+User query (posed on November 30, 2024): 
+
+Hi. I’m a citizen of Romania. Do I need a Schengen visa if I travel to France? 
+
+System response (pre-RAG implementation): 
+
+Yes, you need to apply for a Schengen visa to enter France. 
+
+System response (post-RAG implementation): 
+
+If you are traveling to France after January 1, 2025, you will no longer need to apply for a Schengen visa.  
+
+ 
